@@ -1,0 +1,16 @@
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.IoC.deps.json
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.IoC.dll
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.IoC.pdb
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.dll
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.Application.dll
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.Domain.dll
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.pdb
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.Application.pdb
+D:\contactAPI\ContactsCL\ContactsCL.IoC\bin\Debug\netcoreapp3.1\ContactsCL.Domain.pdb
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.csproj.AssemblyReference.cache
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.AssemblyInfoInputs.cache
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.AssemblyInfo.cs
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.csproj.CoreCompileInputs.cache
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.csproj.CopyComplete
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.dll
+D:\contactAPI\ContactsCL\ContactsCL.IoC\obj\Debug\netcoreapp3.1\ContactsCL.IoC.pdb

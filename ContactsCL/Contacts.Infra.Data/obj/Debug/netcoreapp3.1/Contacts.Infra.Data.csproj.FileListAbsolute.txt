@@ -1,0 +1,15 @@
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.deps.json
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.dll
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.pdb
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.csproj.AssemblyReference.cache
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.AssemblyInfoInputs.cache
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.AssemblyInfo.cs
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.csproj.CoreCompileInputs.cache
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.dll
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.pdb
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.runtimeconfig.json
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\Contacts.Infra.Data.runtimeconfig.dev.json
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\ContactsCL.Domain.dll
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\bin\Debug\netcoreapp3.1\ContactsCL.Domain.pdb
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.csproj.CopyComplete
+D:\contactAPI\ContactsCL\Contacts.Infra.Data\obj\Debug\netcoreapp3.1\Contacts.Infra.Data.genruntimeconfig.cache

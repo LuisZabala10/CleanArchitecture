@@ -1,0 +1,9 @@
+D:\contactAPI\ContactsCL\ContactsCL.Domain\bin\Debug\netcoreapp3.1\ContactsCL.Domain.deps.json
+D:\contactAPI\ContactsCL\ContactsCL.Domain\bin\Debug\netcoreapp3.1\ContactsCL.Domain.dll
+D:\contactAPI\ContactsCL\ContactsCL.Domain\bin\Debug\netcoreapp3.1\ContactsCL.Domain.pdb
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.AssemblyInfoInputs.cache
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.AssemblyInfo.cs
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.csproj.CoreCompileInputs.cache
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.dll
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.pdb
+D:\contactAPI\ContactsCL\ContactsCL.Domain\obj\Debug\netcoreapp3.1\ContactsCL.Domain.csproj.AssemblyReference.cache
