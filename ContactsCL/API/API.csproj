@@ -18,9 +18,5 @@
     <ProjectReference Include="..\ContactsCL.IoC\ContactsCL.IoC.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Filters\" />
-  </ItemGroup>
-
 
 </Project>

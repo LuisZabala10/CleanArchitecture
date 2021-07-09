@@ -17,6 +17,7 @@
         public async Task<IEnumerable<Contact>> GetContactsWithNumbersAsync()
         {
             var contancts = await _contactRepository.GetContactsAsync();
+
             return contancts;
         }
     }

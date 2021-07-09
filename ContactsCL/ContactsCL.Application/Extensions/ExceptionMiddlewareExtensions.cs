@@ -5,6 +5,7 @@
     using Microsoft.AspNetCore.Diagnostics;
     using Microsoft.AspNetCore.Http;
     using System.Net;
+
     public static class ExceptionMiddlewareExtensions
     {
         public static void ConfigureExceptionHandler(this IApplicationBuilder app)
@@ -13,21 +14,19 @@
             {
                 options.Run(async context =>
                 {
-
-                    context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                    context.Response.StatusCode = (int)HttpStatusCode.NotFound;
                     context.Response.ContentType = "application/json";
 
+                    var exception = context.Features.Get<IExceptionHandlerFeature>();
 
-                    var contentFeature = context.Features.Get<IExceptionHandlerFeature>();
-
-                    if (contentFeature != null)
+                    if (exception != null)
                     {
-                        await context.Response.WriteAsync(
-                            new ErrorDetail
-                            {
-                                Status = context.Response.StatusCode,
-                                Title = "Internal Server Error"
-                            }.ToString());
+                        await context.Response.WriteAsync(new ExceptionDetail
+                        {
+                            Status = context.Response.StatusCode,
+                            Title = "Internal Server Error",
+                            Detail = exception.Error.Message
+                        }.ToString());
                     }
 
                 });

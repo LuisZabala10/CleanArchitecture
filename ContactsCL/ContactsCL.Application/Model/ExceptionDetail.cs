@@ -2,10 +2,11 @@
 
 namespace ContactsCL.Application.Model
 {
-    public class ErrorDetail
+    public class ExceptionDetail
     {
         public int Status { get; set; }
         public string Title { get; set; }
+        public string Detail { get; set; }
 
         public override string ToString()
         {
