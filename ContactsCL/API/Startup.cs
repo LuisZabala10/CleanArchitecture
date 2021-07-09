@@ -1,4 +1,5 @@
 using Contacts.Infra.Data.Context;
+using ContactsCL.Application.Extensions;
 using ContactsCL.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -47,6 +48,8 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.ConfigureExceptionHandler();
 
             app.UseHttpsRedirection();
 

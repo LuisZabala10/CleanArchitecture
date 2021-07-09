@@ -28,6 +28,8 @@ namespace API.Controllers
 
             var contactsToReturn = _mapper.Map<IEnumerable<ContactDto>>(contacts);
 
+            throw new Exception();
+
             return Ok(contactsToReturn);
         }
     }
